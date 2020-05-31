@@ -1,8 +1,0 @@
- python .\src\mitweets\manage.py runserver        
-Still didn't yet attache the ML function to the code yet, i am just pulling from twitter right now.
-
-preferences                        
-
-recommendation system
-visualization
-explanable                                                                                      
